@@ -8,7 +8,5 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(number)
-  # if [1..9].include?(number)
-    return number.to_i - 1
-  end
+   number.to_i - 1
 end
