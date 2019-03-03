@@ -10,4 +10,5 @@ end
 def input_to_index(number)
   if [1..9].include?(number)
     return number - 1
+  end
 end
